@@ -1,0 +1,16 @@
+{
+  "name": "testnodejs",
+  "version": "1.0.0",
+  "description": "我的第一个nodejs测试应用",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "make test",
+    "start": "node server.js"
+  },
+  "author": "chuang",
+  "license": "ISC"
+}
